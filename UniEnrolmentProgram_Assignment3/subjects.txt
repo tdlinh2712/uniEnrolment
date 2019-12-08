@@ -1,0 +1,8 @@
+DPIT128,Web tech,GENERAL
+DPIT127,Networks and Communication,SPECIALISED
+MGNT110,Introduction to Management,GENERAL
+DPIT115,Database Management,SPECIALISED
+DPIT114,System Analysis,GENERAL
+DPIT113,Problem Solving,SPECIALISED
+DPIT111,Programming Fundamentals,GENERAL
+DPIT121,Object Oriented Programming,ADVANCED
